@@ -89,6 +89,6 @@
   },
   "registeredAt": "2026-01-27T10:04:30.041Z",
   "registeredBy": "arn:aws:sts::540843989018:assumed-role/voclabs/user2862610=Adri__n_Rami_Irurueta",
-  "enableFaultInjection": false,
+
   "tags": []
 }
